@@ -8,26 +8,26 @@
 
 
 body{
-     background-color: gray;
+     background-color: pink;
      font-family: 'Pattaya', sans-serif;
 }
 
 header{
    padding: 10px;
    text-align: center;
-   background-color: red;
+   background-color: deeppink;
 }
 section{
    padding: 10px;
-   background-color: orange;
+   background-color: salmon;
 }
 aside{
    padding: 10px;
-   background-color: green;
+   background-color: peachpuff;
 }
 footer{
    pading: 10px;
-   background-color: blue;
+   background-color: skyblue;
    text-align: center;
 }
 /* 641px 以上 */
